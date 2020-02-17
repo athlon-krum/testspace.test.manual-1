@@ -10,3 +10,5 @@ Checking for basic emoji support and here :smile"
 ## Using my editor
 Not sure 🤔
 
+:eyes:
+🤓
